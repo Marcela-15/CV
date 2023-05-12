@@ -1,0 +1,263 @@
+body{
+    background-color: #ffbdb9;
+
+}
+
+*{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* //////////////////////// SIDE BAR PHOTOS ////////////////////// */
+
+.sidebar {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .yo {
+    position: relative;
+    border-radius: 50%;
+    margin-left: 89px;
+    margin-top: 40px;
+    float: left;
+  }
+
+
+  .morado {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    height: 852px;
+    width: 300px;
+    float: left;
+  }
+
+
+/* //////////////// SIDE BAR INFO ///////////////// */
+/* ---------------- CLASES  --------- */
+
+.titulos{
+    position: absolute;
+    font-size: large;
+    color: aliceblue;
+    font-weight: bold ;
+}
+
+.lineas{
+    position: relative;
+    border-top: 3px solid aliceblue;
+    width: 150px;
+
+}
+
+.personalinfoextras{
+    position: absolute;
+    font-size: small;
+    color: aliceblue;
+    font-weight: bold ;
+}
+
+.personalinfoextrasnobold{
+    position: absolute;
+    font-size: small;
+    color: aliceblue;
+}
+
+
+
+/* ///////////// HTML ELEMENTS SIDE BAR /////////////// */
+
+
+#infopersonal{
+    top: 260px;
+    left: 50px;
+}
+
+#linea1{
+    top: 282px;
+    left: 50px;
+}
+
+#numeroTitulo{
+    top: 300px;
+    left: 50px;
+}
+
+#numero{
+    top: 320px;
+    left: 50px;
+}
+
+#mailTitulo{
+    top: 350px;
+    left: 50px; 
+}
+
+#mail{
+    top: 370px;
+    left: 50px;
+}
+
+
+#direccionTitulo{
+    top: 400px;
+    left: 50px;
+}
+
+#direccion{
+    top: 420px;
+    left: 50px;
+}
+
+#education{
+    top: 450px;
+    left: 50px;
+}
+
+#linea2{
+    top: 472px;
+    left: 50px;
+    margin-top: -3px;
+
+}
+
+#year{
+    top: 490px;
+    left: 50px;
+}
+
+
+#colegio{
+    top: 510px;
+    left: 50px;
+}
+
+
+#ongoing{
+    top: 530px;
+    left: 50px;
+}
+
+
+#uach{
+    top: 550px;
+    left: 50px;
+}
+
+
+#icc{
+    top: 570px;
+    left: 50px; 
+}
+
+#expertise{
+    top: 600px;
+    left: 50px;
+}
+
+#linea3{
+    top: 622px;
+    left: 50px;
+    margin-top: 0px;
+
+}
+
+#languages{
+    top: 640px;
+    left: 50px;
+}
+
+#skills{
+    top: 700px;
+    left: 50px;
+}
+
+#linea4{
+    top: 722px;
+    left: 50px;
+    margin-top: -20x;
+
+}
+
+#skillslist{
+    top: 740px;
+    left: 50px;
+}
+
+/* /////////////// HTML ELEMENTS FOR MAIN INFO ///////////// */
+
+
+.main{
+    width: 1000px;
+    height: 750px ;
+    padding: 50px;
+    border-width: 5px;
+    background-color: antiquewhite;
+    text-align: left;
+    margin-left: 350px;
+    margin-top: 5px;
+    color: rgb(71, 71, 71);
+
+    
+}
+
+.lineagris{
+    position: relative;
+    border-top: 3px solid rgb(71, 71, 71);
+    width: 990px;
+    border-top-width: thin;
+    margin-top: -10px;
+
+}
+
+
+.textomain{
+    margin-left: 10px;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 0;
+    margin-right: 9px;
+    
+}
+
+
+.companies{
+    font-weight: lighter;
+    text-align: justify;
+    margin-left: 0;
+
+}
+
+.companies2{
+    font-weight: bolder;
+    text-align: justify;
+    margin-left: 0;
+
+}
+
+
+
+
+#cv{
+    font-weight: bold;
+}
+
+
+.lineagris{
+    position: relative;
+    border-top: 3px solid rgb(71, 71, 71);
+    width: 990px;
+    border-top-width: thin;
+}
+
+#lineagris2{
+    margin-left: -7px;
+}
+
+#workexp{
+    margin-left: -7px;
+}
+
+
